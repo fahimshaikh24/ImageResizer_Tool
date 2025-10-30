@@ -20,11 +20,21 @@ It automatically resizes all images in a folder and saves them to an output fold
 
 ## 🧾 Example Output
 Before → After resizing (400x400)
-🔗 Input Image: View Input Image
+When the script is run, all images inside the **images_input** folder are resized to the given dimensions (e.g., 400×400) and saved in **images_output**.
 
-🔗 Output Image: View Output Image
+**🔗 Input Image:** [View Input Image](animals_input.jpg)  
+**🔗 Output Image:** [View Output Image](animals_output.jpg)
 
-<table> <tr> <td><img src="images_input/animals.jpg" width="300"></td> <td><img src="images_output/animals.jpg" width="300"></td> </tr> <tr> <td align="center">Original Image</td> <td align="center">Resized Image</td> </tr> </table>
+<table>
+<tr>
+<td><img src="animals_input.jpg" width="300"></td>
+<td><img src="animals_output.jpg" width="300"></td>
+</tr>
+<tr>
+<td align="center">🌿 Original Image</td>
+<td align="center">🖼️ Resized Image (400×400)</td>
+</tr>
+</table>
 
 
 ## 📋 Features
@@ -41,4 +51,5 @@ Before → After resizing (400x400)
 
 ## 👨‍💻 Author
 Fahim Shaikh
+
 SY BTECH in Computer Science & Engineering
